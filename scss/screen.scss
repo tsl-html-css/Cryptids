@@ -5,6 +5,10 @@ body {
     padding-top:80px;
 }
 
+img {
+    max-width: 100%;
+}
+
 /* TAGLINE*/
 
 .tagline {
@@ -53,7 +57,7 @@ body {
     }
 
     a {
-        font-size: 18px;
+        // font-size: 18px;
         line-height: 1;
         text-transform: uppercase;
         text-align:center;
